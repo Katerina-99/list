@@ -29,7 +29,7 @@ ul {
 ul::before {
   content: "";
   position: absolute;
-  height: 140%;
+  height: 130%;
   top: -50px;
   left: -41px;
   border-left: 1px solid #c5a99b;
@@ -75,9 +75,9 @@ button {
   h1 {
     font-size: 28px;
   }
-  ul::before {
+  /* ul::before {
     height: 135%;
-  }
+  } */
   li {
     font-size: 18px;
   }
